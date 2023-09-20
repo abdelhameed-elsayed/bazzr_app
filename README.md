@@ -2,15 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
+This Flutter Ecommerce UI is specifically made to provide a retro feel. It’s using a blockchain-based system for payments behind the scenes to ensure privacy and encryption. The registration is simple and can be done using one’s Google account as well.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Mockup01-1-1536x627](https://github.com/abdelhameed-elsayed/bazzr_app/assets/105364430/c2201b6f-23d2-498b-9a55-7ffe2ec9c42a)
